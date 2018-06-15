@@ -2,7 +2,7 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js", C:\Users\Gaming\Desktop\Blackbot
+  "main": "bot.js", Blackbot
   "scripts": {
     "start": "node bot.js"
   },
