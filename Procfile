@@ -1,0 +1,1 @@
+worked: nodebot.js Blackbot
