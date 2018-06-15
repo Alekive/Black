@@ -1,1 +1,1 @@
-worked: nodebot.js Blackbot
+worker: nodebot.js Blackbot
